@@ -1,7 +1,8 @@
 ### Hi there 👋
+<!--
 [![@littlebuddhaa's Holopin board](https://holopin.me/littlebuddhaa)](https://holopin.io/@littlebuddhaa)
 
-<!--
+
 **littleBuddhaa/littleBuddhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
